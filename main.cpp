@@ -4,7 +4,7 @@
 int main(int argc, char *argv[])
 {
     //
-    if (i<90)
+    if (i<9000000)
         //
     QApplication a(argc, argv);
     MathParse w;
